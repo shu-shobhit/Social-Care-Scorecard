@@ -17,6 +17,8 @@ a. Predictive model for a social scorecard based on limited available informatio
 about an individual and flag needs like transportation, healthy food options, etc.
 b. An action-based version of the scorecard to assist PNs, physicians, and other
 clinical staff (based on their role) in taking action.
+<br>
+**NOTE: I have personally worked on the approach 1 part but was also involved in coding approach 2.**
 
 ## Methodology
 #### Approach - 1
